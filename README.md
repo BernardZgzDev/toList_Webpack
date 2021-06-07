@@ -1,6 +1,6 @@
 # Webpack starter
 
-Este es el template para crear proyectos JS usando webpack
+Este es proyecto sencillo en JS usando webpack para una Todo List
 
 <br/>
 
