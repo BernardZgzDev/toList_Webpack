@@ -108,16 +108,8 @@ ulFilter.addEventListener('click', ( event ) => {
                         element.classList.add('hidden');
                     }
                     break;
-            }
-            
-
+            } 
         }
-    
     }
-    
-    
-        
-
-    
 
 });
